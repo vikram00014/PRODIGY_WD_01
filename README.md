@@ -15,7 +15,3 @@ This project is a fully responsive landing page built using **HTML**, **CSS**, a
 - CSS
 - JavaScript
 
-### 📸 Preview
-*(Add screenshot or link to demo if available)*
-
----
